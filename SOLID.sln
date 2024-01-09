@@ -11,6 +11,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_2_OCP", "_2_OCP", "{584D1B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_2_OCP", "_2_OCP\_2_OCP.csproj", "{0BF74AF6-4A81-4004-AE48-C2DBC4F71E77}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_3_LSP", "_3_LSP", "{0D9FDBD2-FEB9-436E-8640-48F8FF152E74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_3_LSP", "_3_LSP\_3_LSP.csproj", "{128F950B-53F9-4F31-A579-CA09445A8CB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +29,10 @@ Global
 		{0BF74AF6-4A81-4004-AE48-C2DBC4F71E77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BF74AF6-4A81-4004-AE48-C2DBC4F71E77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BF74AF6-4A81-4004-AE48-C2DBC4F71E77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{128F950B-53F9-4F31-A579-CA09445A8CB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{128F950B-53F9-4F31-A579-CA09445A8CB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{128F950B-53F9-4F31-A579-CA09445A8CB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{128F950B-53F9-4F31-A579-CA09445A8CB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +40,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{F69114EB-4F24-446A-B367-0E88262DB0A1} = {45C44F42-887F-4773-B0B4-91BB895EFF7C}
 		{0BF74AF6-4A81-4004-AE48-C2DBC4F71E77} = {584D1BC9-11E0-4271-A955-93A9FB728FE9}
+		{128F950B-53F9-4F31-A579-CA09445A8CB6} = {0D9FDBD2-FEB9-436E-8640-48F8FF152E74}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A8FA06C7-8168-4CD0-B522-430B5F51F094}
